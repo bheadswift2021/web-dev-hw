@@ -1,0 +1,3 @@
+web is full of pages, the internet is a network of computers the internet works on.
+you connect by ISP(Internet Service Provider) and your computer contacts a DNS(Domain Name System) Which will than tell yyour Computer IP address Associated with the requested domain name)the web server sends the page you request
+A directory is the main fileto sub files
