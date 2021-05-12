@@ -2,4 +2,4 @@
 
 This is for all my assignments
 
-I am a new web designer
+I am a Native American Studies Major and a Media arts minor
